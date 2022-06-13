@@ -43,9 +43,10 @@ const Timeline = () => {
   // }, []);
 
   return (
-    <div>
-      Timeline
-    </div>
+   <Section id="about">
+<SectionTitle>About Me</SectionTitle>
+<SectionText>I'm Rishi, a high school student in Irvine, CA. My passion is using technology to help create value in the world.</SectionText>
+   </Section>
   );
 };
 
